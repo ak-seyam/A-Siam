@@ -1,5 +1,15 @@
-### Hi there 👋
+<h3 align="center">Hey There 👋😎</h3>
 
+```bash
+@facts ~> whoami
+abdullah_khaled
+@facts ~> groups abdullah_khaled
+software_engineer web_developer java_spring_boot_dev react_dev problem_solver linux_user  
+```
+### About me 
+- 🔭 I’m currently working on \[My portfolio, A readme for tansiq, deploying some sites to github pages\]
+- 📫 How to reach me abdullah.khaled.kamal0@gmail.com or [linkedin](https://www.linkedin.com/in/abdullah-khaled-kamal/)
+- 💬 Ask me about Anything 😁
 <!--
 **A-Siam/A-Siam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
