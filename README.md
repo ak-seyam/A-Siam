@@ -4,7 +4,7 @@
 @facts ~> whoami
 abdullah_khaled
 @facts ~> groups abdullah_khaled
-software_engineer web_developer java_spring_boot_dev react_dev problem_solver linux_user  
+software_engineer web_dev MERN_stack_dev java_spring_boot_dev react_dev problem_solver linux_user  
 ```
 ### About me 
 - 🔭 I’m currently working on \[My portfolio, A readme for tansiq, deploying some sites to github pages\]
