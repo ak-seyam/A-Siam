@@ -9,7 +9,7 @@ software_engineer web_dev MERN_stack_dev java_spring_boot_dev react_dev problem_
 <hr/>
 
 ### About me 
-- 🔭 I’m currently working on \[My portfolio, A readme for tansiq, deploying some sites to github pages\]
+- 🔭 I’m currently working on \[Mosummem online shop\]
 - 📫 How to reach me abdullah.khaled.kamal0@gmail.com or [linkedin](https://www.linkedin.com/in/abdullah-khaled-kamal/)
 - 💬 Ask me about anything 😁
 
