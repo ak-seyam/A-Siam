@@ -4,7 +4,7 @@
 @facts ~> whoami
 abdullah_khaled
 @facts ~> groups abdullah_khaled
-software_engineer web_dev MERN_stack_dev java_spring_boot_dev react_dev problem_solver linux_user  
+software_engineer java_developer web_dev MERN_stack_dev java_spring_boot_dev react_dev problem_solver linux_user  
 ```
 <hr/>
 
@@ -14,5 +14,8 @@ software_engineer web_dev MERN_stack_dev java_spring_boot_dev react_dev problem_
 - 💬 Ask me about anything 😁
 
 <hr/>
-
+<div align="center">
+<a href="https://a-siam.github.io/Portfolio/"> check my portfolio 😊 </a>
+</div>
+<hr />
 ![A-Siam stats](https://github-readme-stats.vercel.app/api?username=a-siam&show_icons=true&theme=gruvbox&hide=stars)
