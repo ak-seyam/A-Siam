@@ -14,8 +14,5 @@ software_engineer java_developer web_dev MERN_stack_dev java_spring_boot_dev rea
 - 💬 Ask me about anything 😁
 
 <hr/>
-<div align="center">
-<a href="https://a-siam.github.io/Portfolio/"> check my portfolio 😊 </a>
-</div>
-<hr />
+
 ![A-Siam stats](https://github-readme-stats.vercel.app/api?username=a-siam&show_icons=true&theme=gruvbox&hide=stars)
